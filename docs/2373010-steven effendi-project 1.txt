@@ -1,0 +1,8 @@
+pertanyaan 
+1.lapisan mana yang paling saya pahami
+2.lapisan mana yang paling saya campuradukkan
+3.bukti apa yang membuat sebuah system layak disebut "cerdas" dan bertanggung jawab
+
+jawaban 
+1.Lapisan yang paling saya pahami adalah Data,BI,ML,LLM
+2. Untuk saat ini tidak ada lapisan yang saya campuradukkan karena saya sudah memahami alur dan fungsi seluruh lapisan dengan baik. 3. Bukti yang membuat sebuah sistem layak disebut "cerdas" dan bertanggung jawab adalah tersedianya jejak bukti (evidence trace) yang transparan dari data mentah hingga keputusan akhir, sehingga keluaran sistem dapat ditelusuri alasannya, dipertanggungjawabkan, serta jelas kapan ia dapat dipercaya dan kapan tidak.
